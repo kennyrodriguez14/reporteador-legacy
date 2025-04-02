@@ -1,0 +1,1282 @@
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Trabajo\Disar Trabajos\Trabajos\Sistema de Reportes\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Disar - copia\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Disar - copia\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Disar - copia\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Disar - copia\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Disar - copia\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Disar - copia\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Disar - copia\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Disar - copia\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Disar - copia\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\24-11-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\24-11-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\24-11-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\24-11-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\24-11-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\24-11-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\24-11-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\24-11-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\24-11-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\25-11-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\25-11-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\25-11-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\25-11-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\25-11-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\25-11-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\25-11-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\25-11-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\25-11-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\25-11-13 - copia\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\29-11-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\29-11-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\29-11-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\29-11-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\29-11-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\29-11-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\29-11-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\29-11-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\29-11-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\02-12-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\03-12-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\04-12-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\05-12-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\07-12-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\12-12-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\23-12-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\Diciembre\28-12-13\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\09-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\10-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\15-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\16-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\17-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\20-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\21-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Enero\22-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\IT\Desktop\27-01-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Desarrollo\2014\Febrero\05-02-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Febrero\18-02-14\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\bin\Debug\Disar.ico
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\bin\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\bin\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\bin\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\obj\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\obj\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\Disar\Disar.data\obj\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\bin\Debug\Disar.ico
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\07-03-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\bin\Debug\Disar.ico
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\10-03-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\bin\Debug\Disar.ico
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\bin\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\bin\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\bin\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\obj\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\obj\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\12-03-14-1\Disar.data\obj\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\bin\Debug\Disar.ico
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\13-03-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\bin\Debug\Disar.ico
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\bin\Debug\office.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Marzo\27-03-14\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\bin\Debug\Disar.ico
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\bin\Debug\office.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Documentos Kenny\Desarrollo\Aplicacion Disar\2014\Abril\14-04-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\14-04-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\12-05-14 - copia\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\01-10-14\Disar.data\obj\Debug\Disar.data.pdb
+F:\01-10-14\Disar.data\bin\Debug\Disar.ico
+F:\01-10-14\Disar.data\bin\Debug\Disar.data.dll
+F:\01-10-14\Disar.data\bin\Debug\Disar.data.pdb
+F:\01-10-14\Disar.data\bin\Debug\Disar.data.xml
+F:\01-10-14\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\01-10-14\Disar.data\bin\Debug\office.dll
+F:\01-10-14\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\01-10-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+F:\01-10-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+F:\01-10-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+F:\01-10-14\Disar.data\obj\Debug\Disar.data.dll
+F:\01-10-14\Disar.data\obj\Debug\Disar.data.xml
+F:\01-10-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\bin\Debug\office.dll
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.gamez\Desktop\01-10-14\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\bin\Debug\office.dll
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\06-05-2015 - copia\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\28-05-2015\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\bin\Debug\office.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\15-06-2015\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\18-06-2015\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\24-06-2015\Disar.data\obj\Debug\Disar.data.pdb
+F:\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Disar.ico
+F:\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Disar.data.dll
+F:\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Disar.data.pdb
+F:\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Disar.data.xml
+F:\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\office.dll
+F:\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+F:\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.Resources.resources
+F:\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+F:\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.dll
+F:\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.xml
+F:\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\office.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador Disar\27-07-2015\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\31-07-2015\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Sistema 12 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Nuevos reportes\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\office.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 19 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\office.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.gamez\Documents\Proyectos\Reporteador 20 Septiembre 2016\17-08-15 SAE 6.0 - copia\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador 26 Septiembre 2016\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador 1 de Noviembre\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador 4 de Noviembre\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\report validar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Dropbox\Disar\Sistema Disar\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador 3 Enero 2017\Reporteador 17 de Noviembre\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador COMPLETO 24-01-2017\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 03-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.ico
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.dll
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.pdb
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.xml
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\office.dll
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.Resources.resources
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.dll
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.xml
+E:\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\REPORTEADOR COMPLETO 08-02-2017 - CAMBIOS\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.pdb
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.ico
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.dll
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.pdb
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.xml
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\office.dll
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.Resources.resources
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.dll
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.xml
+E:\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\REPORTEADOR SABU\Reporteador COMPLETO 03-02-2017\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\Reporteador San Rafael\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Desktop\Reporteador San Rafael\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 24 - 11 Daniel\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador San Rafael 29- 11 Kenny 1-18 pm\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 15-12-17 ayyyy egooo\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Rep San Rafael Kenny 25-01-18 Ayyyy Egoooo\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\San Rafael\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\02-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.pdb
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.ico
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.pdb
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Disar.data.xml
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\office.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.Resources.resources
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.xml
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\04-05-18\Reporteador 04-04-2018\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador 06-09-2018\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Compartida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Disar.ico
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\bin\Debug\office.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\kenny.rodriguez.SANRAFAELHN\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\Tlacuache\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.pdb
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Disar.ico
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.pdb
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.xml
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\office.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.Resources.resources
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.dll
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.xml
+\\SRC-IT01\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\REPORTEADOR\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Disar.ico
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\bin\Debug\office.dll
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\Kenny Rodriguez\Desktop\Reporteador Produccion\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\bin\Debug\office.dll
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\Kenny Rodriguez\Desktop\R2\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\bin\Debug\office.dll
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\Kenny Rodriguez\Desktop\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R-20-06-2019\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R2\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\bin\Debug\office.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\jose.cardenas.SANRAFAELHN\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\bin\Debug\office.dll
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\Daniel Cardenas\Documents\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\bin\Debug\office.dll
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.Cache
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\src.programador2\Desktop\Sistemas\R\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\office.dll
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\stdole.dll
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\office.xml
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.cache
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbproj.CoreCompileInputs.cache
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbproj.CopyComplete
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\src.programador1\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Disar.ico
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.dll
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.pdb
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Disar.data.xml
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\office.dll
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\stdole.dll
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\bin\Debug\office.xml
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.Resources.resources
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbproj.GenerateResource.cache
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbproj.CoreCompileInputs.cache
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbproj.CopyComplete
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.dll
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.xml
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.pdb
+C:\Users\src.programador2\Google Drive\Con Partida\R\R\Disar.data\obj\Debug\Disar.data.vbprojAssemblyReference.cache

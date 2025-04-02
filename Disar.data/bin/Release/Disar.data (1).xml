@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Disar.data
+</name>
+</assembly>
+<members>
+<member name="M:Disar.data.cls_efectividad_sps.EfectivosDIMOSA(System.DateTime,System.Int32)">
+ DIMOSA
+ 
+
+</member><member name="M:Disar.data.cls_listado_productos.buscar_por_clave_SRAGRO(System.Int32,System.String)">
+	<summary>
+ SR AGRO
+ </summary>
+	<param name="ALMACEN"></param>
+	<param name="CLAVE"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Disar.data.cls_efectividad_tocoa.EfectivosDIMOSA(System.DateTime,System.Int32)">
+ DIMOSA
+ 
+
+</member>
+</members>
+</doc>

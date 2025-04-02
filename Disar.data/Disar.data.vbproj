@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A0835DD1-D873-40BC-A8A9-55CA206F429D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Disar.data</RootNamespace>
+    <AssemblyName>Disar.data</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Disar.data.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Disar.data.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases de Conexion\Clas_conexion_biometrico.vb" />
+    <Compile Include="Clases de Conexion\ClsConexion_Centro_Costos.vb" />
+    <Compile Include="Clases de Conexion\clsconexion_coi_dimosa.vb" />
+    <Compile Include="Clases de Conexion\clsConexion_coi_opl.vb" />
+    <Compile Include="Clases de Conexion\ClsConexion_Flota.vb" />
+    <Compile Include="Clases de Conexion\Cls_ConexionOPL.vb" />
+    <Compile Include="Clases de Conexion\cls_conexionSanRafael.vb" />
+    <Compile Include="Clases de Conexion\Cls_ConexionSipOPL.vb" />
+    <Compile Include="Clases de Conexion\cls_conexion_descuentos_tacticos_dimosa.vb" />
+    <Compile Include="Clases de Conexion\cls_conexion_devoluciones_consumo.vb" />
+    <Compile Include="Clases de Conexion\cls_conexion_DIMOSA.vb" />
+    <Compile Include="Clases de Conexion\cls_conexion_sip_dimosa.vb" />
+    <Compile Include="Clases de Conexion\cls_descuentos_tacticos_opl.vb" />
+    <Compile Include="Clases Generales\Almacen\ClsRegistroAgro.vb" />
+    <Compile Include="Clases Generales\Almacen\Cls_AccidentesLaborales.vb" />
+    <Compile Include="Clases Generales\Almacen\cls_costos_existencias.vb" />
+    <Compile Include="Clases Generales\Almacen\cls_nuevo_prod_prov.vb" />
+    <Compile Include="Clases Generales\Almacen\Ingreso Devoluciones\cls_devoluciones.vb" />
+    <Compile Include="Clases Generales\Almacen\Ingreso Devoluciones\cls_devolucionesAgro.vb" />
+    <Compile Include="Clases Generales\Almacen\Traslado de Promociones\Cls_PromocionesInfo.vb" />
+    <Compile Include="Clases Generales\Bonificaciones\ClassVendedores.vb" />
+    <Compile Include="Clases Generales\Contabilidad\ClsCheques.vb" />
+    <Compile Include="Clases Generales\Contabilidad\clsConsultaBitacora.vb" />
+    <Compile Include="Clases Generales\Contabilidad\ClsDocumentos.vb" />
+    <Compile Include="Clases Generales\Contabilidad\ClsPromociones.vb" />
+    <Compile Include="Clases Generales\Contabilidad\clsResumen_costos.vb" />
+    <Compile Include="Clases Generales\Contabilidad\clsResumen_costos_Agro.vb" />
+    <Compile Include="Clases Generales\Contabilidad\cls_ventas_contado_credito.vb" />
+    <Compile Include="Clases Generales\Descuentos Tacticos\Envio a COI importaciones\cls_envio_coi.vb" />
+    <Compile Include="Clases Generales\Funciones Adicionales\ClsCreacionClientes.vb" />
+    <Compile Include="Clases Generales\Funciones Adicionales\clsInventarioIT.vb" />
+    <Compile Include="Clases Generales\Funciones Adicionales\ClsOrdenTrabajoVehicular.vb" />
+    <Compile Include="Clases Generales\Funciones Adicionales\ClsProductos.vb" />
+    <Compile Include="Clases Generales\Funciones Adicionales\ClsReuniones.vb" />
+    <Compile Include="Clases Generales\monitoreo\cls_reporte_plan_carga_monitoreo.vb" />
+    <Compile Include="Clases Generales\Notas de debito\cls_compras_pedidos.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\ClsFunciones.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\ClsMatinalAgro.vb" />
+    <Compile Include="Clases Generales\Reportes\Clientes\ClsClientes.vb" />
+    <Compile Include="Clases Generales\Reportes\Clientes\ClsClientes_sr_agro.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Bonificaciones\cls_bonificaciones.vb" />
+    <Compile Include="Clases de Conexion\cls_conexion_descuentos_tacticos.vb" />
+    <Compile Include="Clases Generales\Contabilidad\cls_detalle_descuentos.vb" />
+    <Compile Include="Clases Generales\Contabilidad\cls_libro_ventas.vb" />
+    <Compile Include="Clases de Conexion\clsconexion_bienesyrecursos.vb" />
+    <Compile Include="Clases Generales\Reportes\Proveedores\Inventarios\clsMultialmacen.vb" />
+    <Compile Include="Clases Generales\Reportes\Reportes Varios\cls_Devoluviones_Notas_De_Credito.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_coberturas_tocoa.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_coberturas_SR_AGRO.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_cobertura_general.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\cls_coberturasTeg.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\cls_efectividadTegucigalpa.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\cls_efectividad_tocoa.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\cls_efectividad_src.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\_clsVendedoresSRAGRO.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\_clsVendedoresTegucigalpa.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\_clsVendedoresTocoa.vb" />
+    <Compile Include="Clases Generales\Sistema de Remisiones\ClsConsignaciones.vb" />
+    <Compile Include="Clases Generales\Sistema de Remisiones\ClsConsignacionesFlota.vb" />
+    <Compile Include="Clases Generales\Sistema de Remisiones\ClsPapeleria.vb" />
+    <Compile Include="Clases Generales\Supply Chain\ClassPPtCorreo.vb" />
+    <Compile Include="Clases Generales\Supply Chain\ClsBitacoraEventos.vb" />
+    <Compile Include="Clases Generales\Supply Chain\clsCombustible.vb" />
+    <Compile Include="Clases Generales\Supply Chain\ClsEfectividad.vb" />
+    <Compile Include="Clases Generales\Supply Chain\clsRendimientos.vb" />
+    <Compile Include="Clases Generales\Supply Chain\cls_Devoluviones_Notas_De_Credito_SRAGRO.vb" />
+    <Compile Include="Clases Generales\Supply Chain\cls_reporte_carga_valorcero.vb" />
+    <Compile Include="Clases Generales\Supply Chain\tabulacion de rutas\cls_ayuda_clientes.vb" />
+    <Compile Include="Clases Generales\Supply Chain\tabulacion de rutas\cls_ayuda_rutas.vb" />
+    <Compile Include="Clases Generales\Supply Chain\tabulacion de rutas\cls_guardar_tabulacion.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\clsVentasProveedorAgro.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\Productos Averiados\clsayudaClientes_agro.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\Productos Averiados\clsayudaProductos_agro.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\Productos Averiados\clsProductosAveriados_agro.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\Productos Averiados\cls_reporte_de_productos_averiados_agro.vb" />
+    <Compile Include="Clases Generales\Almacen\Carga Camiones Formato Factura\cls_carga_camiones_formatofactura.vb" />
+    <Compile Include="Clases Generales\Almacen\Carga Promedio\cls_carga_promedio.vb" />
+    <Compile Include="Clases Generales\Almacen\Carga_Promedio_Camiones\clsCarga_Promedio_Camiones.vb" />
+    <Compile Include="Clases Generales\Almacen\Carga_Promedio_Camiones\clsFechas_vencimiento.vb" />
+    <Compile Include="Clases Generales\Almacen\cls_almacen.vb" />
+    <Compile Include="Clases Generales\Almacen\horas_trabajo\clsReporte_horas_trabajadas.vb" />
+    <Compile Include="Clases Generales\Almacen\horas_trabajo\cls_horas_Trabajo.vb" />
+    <Compile Include="Clases Generales\Almacen\Malas Cargas\clsMalasCargas.vb" />
+    <Compile Include="Clases Generales\Almacen\Malas Cargas\cls_reporte_malas_cargas.vb" />
+    <Compile Include="Clases Generales\Almacen\Productos Averiados\clsayudaClientes.vb" />
+    <Compile Include="Clases Generales\Almacen\Productos Averiados\clsayudaProductos.vb" />
+    <Compile Include="Clases Generales\Almacen\Productos Averiados\clsProductosAveriados.vb" />
+    <Compile Include="Clases Generales\Almacen\Productos Averiados\cls_reporte_de_productos_averiados.vb" />
+    <Compile Include="Clases Generales\Almacen\Recurrencias\clsRecurrencias.vb" />
+    <Compile Include="Clases Generales\Almacen\Recurrencias\clsSoluciones.vb" />
+    <Compile Include="Clases Generales\Almacen\Recurrencias\cls_reporte_recurrencias.vb" />
+    <Compile Include="Clases Generales\Almacen\Sobrantes\clsReporte_Sobrantes.vb" />
+    <Compile Include="Clases Generales\Almacen\Sobrantes\cls_Sobrantes.vb" />
+    <Compile Include="Clases de Conexion\clsconexion_coi_consumo.vb" />
+    <Compile Include="Clases de Conexion\clsconexion_consumo.vb" />
+    <Compile Include="Clases de Conexion\clsconexion_sr_agro.vb" />
+    <Compile Include="Clases Generales\Almacen\clsIncumplimientos.vb" />
+    <Compile Include="Clases Generales\Contabilidad\cls_antiguedad_saldos.vb" />
+    <Compile Include="Clases Generales\Contabilidad\cls_facturas_vendedor.vb" />
+    <Compile Include="Clases Generales\Contabilidad\cls_ventas_promedio.vb" />
+    <Compile Include="Clases Generales\Supply Chain\clsOrden_Rutas.vb" />
+    <Compile Include="Clases Generales\Reportes\Proveedores\Cajas Livsmart\cls_cajas_livsmart.vb" />
+    <Compile Include="Clases Generales\Reportes\Proveedores\clsQuala.vb" />
+    <Compile Include="Clases Generales\Reportes\Proveedores\cls_ventas_por_proveedor.vb" />
+    <Compile Include="Clases Generales\Reportes\Proveedores\Inventarios\cls_inventarios.vb" />
+    <Compile Include="Clases Generales\Reportes\Proveedores\Sell Out\Alcon\cls_sell_out_mascotas.vb" />
+    <Compile Include="Clases Generales\Reportes\Proveedores\Sell Out\Colgate\clsColgate.vb" />
+    <Compile Include="Clases Generales\Reportes\Reportes Varios\cls_reportes_varios.vb" />
+    <Compile Include="Clases Generales\Reportes\Resumen Anual\cls_rentabilidad.vb" />
+    <Compile Include="Clases Generales\Reportes\Resumen Anual\cls_resumen_anual.vb" />
+    <Compile Include="Clases Generales\Supply Chain\cls_reporte_carga.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_clientes_por_articulo.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\cls_evaluacion_pdse.vb" />
+    <Compile Include="Clases Generales\Supply Chain\cls_comprobante_entrega.vb" />
+    <Compile Include="Clases Generales\Supply Chain\cls_productividad.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Ventas Diarias\clsPresupuestos.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_cartolas.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_coberturas_sps.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_coberturas_src.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Ventas Diarias\cls_cuadro_ventas_diarias.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\cls_efectividad_sps.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\cls_efectividad_SRAGRO.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\cls_ventas_diarias_agro.vb" />
+    <Compile Include="Clases Generales\Reportes\Agro\clsventasdiariasagro.vb" />
+    <Compile Include="Clases de Conexion\cls_conexion_sip.vb" />
+    <Compile Include="Clases Generales\Contabilidad\clsAntSaldos.vb" />
+    <Compile Include="Clases Generales\Almacen\Inventarios\clsInventarios.vb" />
+    <Compile Include="Clases Generales\Almacen\Inventarios\cls_incumplimientos_sip.vb" />
+    <Compile Include="Clases Generales\Almacen\Inventarios\cls_inventarios_sr_agro.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\clsComisiones.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\_clsVendedoresSRC.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\Efectividad\_clsVendedoresSPS.vb" />
+    <Compile Include="Clases de Conexion\clsconexion_coi_sr_agro.vb" />
+    <Compile Include="Clases de Conexion\clsFlotaSRC.vb" />
+    <Compile Include="cls_punto_reorden.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_ventas_oficina.vb" />
+    <Compile Include="Clases de Conexion\cls_conexion_descuentos_tacticos_sragro.vb" />
+    <Compile Include="Clases Generales\Descuentos Tacticos\cls_descuentos_tacticos.vb" />
+    <Compile Include="Clases Generales\Descuentos Tacticos\cls_descuentos_tacticos_sragro.vb" />
+    <Compile Include="Clases Generales\Facturacion Creditos\cls_facturacion_creditos.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Clases Generales\Notas de debito\cls_notas_debito.vb" />
+    <Compile Include="Clases Generales\Notas de debito\cls_notas_debito_SRAGRO.vb" />
+    <Compile Include="Clases de Conexion\clsConexion.vb" />
+    <Compile Include="Seguridad\Bitacora\cls_bitacora_reporteador.vb" />
+    <Compile Include="Seguridad\clsPresupuestoXdepto.vb" />
+    <Compile Include="Seguridad\clsSeguridad.vb" />
+    <Compile Include="Seguridad\Envios\clsEnvios.vb" />
+    <Compile Include="Clases Generales\Sistema de Remisiones\cls_listado_productos.vb" />
+    <Compile Include="Clases Generales\Sistema de Remisiones\cls_remisiones.vb" />
+    <Compile Include="Clases Generales\Reportes\Vendedores\cls_pivot_ventas.vb" />
+    <Compile Include="Clases Generales\Reportes\Proveedores\Sell Out\cls_sell_out_general.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Disar.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

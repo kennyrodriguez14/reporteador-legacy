@@ -1,0 +1,3 @@
+﻿Public Class frm_modificar_descuento_tactico_opl
+
+End Class
